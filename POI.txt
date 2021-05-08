@@ -1,6 +1,6 @@
 1;Frognerseteren;59.977343;10.677618;434;
 0;Balcony Home;59.825901;10.782466;0;
-2;Vigeland Sculpture Park;59.97673;10.698903;50;
+2;Vigeland Sculpture Park;59.927952;10.698936;44;
 2;Akershus Fortress;59.908533;10.737073;21;
 2;Viking Ship Museum;59.904958;10.684341;21;
 0;The National Museum;59.916193;10.737715;20;
