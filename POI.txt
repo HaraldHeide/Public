@@ -7,11 +7,11 @@
 2;Botanical Garden;59.918341;10.770690;40;
 0;Munch Museum;59.916810;10.773989;24;
 2;Royal Palace;59.916666;10.729072;31;
-2;Museum of Cultural History;59.916907;10.735237;12;
+0;Museum of Cultural History;59.916907;10.735237;12;
 2;Fram Museum;59.903504;10.699323;1;
 2;Holmenkollen Ski Jump;59.964451;10.6667692;360;
-2;Oslo Cathedral;59.913142;10.746104;44;
-2;"Oslo Opera House;59.907604;10.753512;20;
+0;Oslo Cathedral;59.913142;10.746104;44;
+2;Oslo Opera House;59.907604;10.753512;20;
 0;City Hall;59.912443;10.734057;30;
 0;Aker Brygge;59.911320;10.728881;2;
 2;Bislet Stadio;59.925076;10.733220;41;
