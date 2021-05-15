@@ -1,0 +1,10 @@
+0;Name;Lat;Lon;Height;
+0;Balcony Holmlia;59.825901;10.782466;0;
+1;Balcony Haukrei;59.208336;7.836435;630;
+2;Båthus;59.207931;7.838790;604;
+2;Haukrei Kraftverk;59.204448;7.835191;609;
+2;Borgefjell;59.180872;7.921280;887;
+2;Nystøylfjellet;59.173626;7.833382;913;
+2;HaukreiFjellet;59.203634;7.832322;891;
+2;Finndalstveitheiane;59.221047;7.904199;860;
+2;Fiskeløysfjellet;59.184659;7.859884;933;

@@ -16,12 +16,12 @@ Files from a public github directory seems to work fine. (JPG,PNG.etz.)
 
 https://github.com/HaraldHeide/Public/raw/main/746775191764_ml.jpg
 
-The public function OnButtonClickDownload() in the "ImageDownloader" script
+The public function OnButtonClickDownload() in the "ImageDownloader" scriptwwwwwwwwwwwwwwwww
 should be called from a suitable UI Button or something. Needs only to be called from Observer view.
 
 
-        //Example files:
-        //https://github.com/HaraldHeide/Public/raw/main/746775191764_ml.jpg
-        //https://github.com/HaraldHeide/Public/raw/main/FOLCertificate.pdf
+Example files:
+https://github.com/HaraldHeide/Public/raw/main/746775191764_ml.jpg
+https://github.com/HaraldHeide/Public/raw/main/jessie-toy-story-11563070373cijpdfxxna.png
 
 */

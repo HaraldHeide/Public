@@ -1,0 +1,5 @@
+0;Name;Lat;Lon;Height
+2;Balcony Home;59.825901;10.782466;0;
+2;Parkingplace;59.826741;10.782568;0;
+2;Bottle Disposer;59.826333;10.782310;-4;
+2;CrossRoad;59.825703;10.781914;-11;
